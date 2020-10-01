@@ -1,6 +1,6 @@
 print("Check if a number is prime")
 #taking input from user
-number = int(input('Enter the number\t'))
+number: int = int(input('Enter the number\t'))
 
 if number>1:
 
